@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @NathanielChavdarov
-- 👀 I’m interested in space and rockets
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach the moon
+...
 
 <!---
 NathanielChavdarov/NathanielChavdarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
